@@ -28,3 +28,5 @@ for entry in array:
 ```  
   
 Snakeyes automatically highlights the filler words in the autocompletion text.
+
+Because Snakeyes is a work-in-progress, help with this project through pull requests is greatly appreciated.
